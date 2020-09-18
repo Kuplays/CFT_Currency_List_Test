@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="string_refresh">ОБНОВИТЬ</string>
+    <string name="string_test">TEST</string>
+    <string name="string_tmp_holder">TMP</string>
+    <string name="string_current">Текущее</string>
+    <string name="string_tmp_values">99.9999</string>
+    <string name="string_previous">Предыдущее</string>
+    <string name="string_percentage">Проценты</string>
+</resources>
